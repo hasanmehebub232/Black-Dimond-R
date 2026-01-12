@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Black Dimond R</h1>
 <h3 align="center">1st Year Student of BTech CSE AI & ML</h3>
-<img align="right"alt="coding"width="400"src="https://share.google/5xA3sLN8f5KdyGpLg">
+<img align="right"alt="coding"width="400"src="<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/cfba3166-e9ca-49ad-abe8-a756a7037259" />
+">
 - 🌱 I’m currently learning **CSE AI&ML Course**
 
 - 📫 How to reach me **hasanmehebub232@gmail.com**
