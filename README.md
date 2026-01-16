@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Black Dimond R</h1>
 <h3 align="center">1st Year Student of BTech CSE AI & ML</h3>
 - 🌱 I’m currently learning **CSE AI&ML Course**
-<img align="right"alt="coding"width="400"scr="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+<img align="right"alt="coding"width="400"scr="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 - 📫 How to reach me **hasanmehebub232@gmail.com**
 
 - 📄 Know about my experiences [Basics Python](Basics Python)
